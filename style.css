@@ -1,0 +1,137 @@
+.telo{
+    position: absolute;
+    left: 500px;
+    top: 500px;
+    width: 200px;
+    height: 200px;
+    border-radius:100%;
+    background-color: #A55E4A;
+}
+.fon{
+margin: 0px;
+    padding: 0px;
+    background: linear-gradient(#c5dde8, #E5AC9E, #ffeed1) fixed;
+}
+.Lnoga{
+    background-color: #A55E4A;
+	height: 175px;
+	width: 60px;
+	position: absolute;
+	top: 650px;
+	left: 525px;
+    border-radius: 40px 40px 40px 40px;
+}
+.Rhoga{
+    background-color: #A55E4A;
+	height: 175px;
+	width: 60px;
+	position: absolute;
+	top: 650px;
+	left: 620px;
+    border-radius: 40px 40px 40px 40px;
+}
+.Lruka{
+    background-color: #A55E4A;
+	height: 150px;
+	width: 60px;
+	position: absolute;
+	top: 500px;
+	left: 430px;
+    border-radius: 40px 40px 40px 40px;
+    transform: rotate(270deg);
+}
+.Rruka{
+    background-color: #A55E4A;
+	height: 150px;
+	width: 60px;
+	position: absolute;
+	top: 500px;
+	left: 700px;
+    border-radius: 40px 40px 40px 40px;
+    transform: rotate(95deg);
+}
+.golova{
+    position: absolute;
+    left: 515px;
+    top: 360px;
+    width: 150px;
+    height: 150px;
+    border-radius:100%;
+    background-color: #A55E4A;}
+    .golovka{
+        position: absolute;
+        left: 530px;
+        top: 380px;
+        width: 110px;
+        height: 110px;
+        border-radius:100%;
+        background-color: #ffbba8;
+    }
+.Lyxo{
+    position: absolute;
+    left: 403px;
+    top: 350px;
+    width: 125px;
+    height: 125px;
+    border-radius:100%;
+    background-color: #A55E4A;
+}
+.Ryxo{
+    position: absolute;
+    left: 650px;
+    top: 350px;
+    width: 125px;
+    height: 125px;
+    border-radius:100%;
+    background-color: #A55E4A;
+}
+.Lg{
+    position: absolute;
+        left: 535px;
+        top: 400px;
+        width: 35px;
+        height: 35px;
+        border-radius:100%;
+        background-color: white;
+    
+}
+.Rg{
+    position: absolute;
+        left: 600px;
+        top: 400px;
+        width: 35px;
+        height: 35px;
+        border-radius:100%;
+        background-color: white;
+    
+}
+.Lr{
+    position: absolute;
+        left: 535px;
+        top: 403px;
+        width: 16px;
+        height: 16px;
+        border-radius:100%;
+        background-color: black;
+    
+}
+.Rr{
+    position: absolute;
+        left: 600px;
+        top: 400px;
+        width: 16px;
+        height: 16px;
+        border-radius:100%;
+        background-color: black;
+    
+}
+.rot{
+    position: absolute;
+        left: 560px;
+        top: 440px;
+        width: 40px;
+        height: 40px;
+        border-radius:100%;
+        background-color: red;
+    
+}
